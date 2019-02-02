@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Relawan
 
 *Test to try on master*
@@ -72,8 +71,4 @@ DATABASES = {
         'PORT': '3306',
     }
 }
-```
-=======
-# relawan
-Pengumpulan data relawan
->>>>>>> fbc0680cac44ce44cfc3b1884f9218a970e46124
+
