@@ -91,12 +91,10 @@ class Targetcapem(models.Model):
 	def count_relawan(self, *args, **kwargs):
 		c_relawan = Targetcapem.objects.filter(pk=self.relawan_id).annotate(Count(self.relawan))
 
-
-
-	def save(self, *args, **kwargs):
-		if not self.pk:
-			Relawan.objects.filter(pk=self.relawan_id).update(count_target=F('count_target')+1)
-		super().save(*args, **kwargs)
+	# def save(self, *args, **kwargs):
+	# 	if not self.pk:
+	# 		Relawan.objects.filter(pk=self.relawan_id).update(count_target=F('count_target')+1)
+	# 	super().save(*args, **kwargs)
 
 
 @receiver(pre_save, sender=Targetcapem, dispatch_uid="update_target_count")
