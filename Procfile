@@ -1,1 +1,1 @@
-web: gunicorn relawan.wsgi:application
+web: gunicorn relawan.wsgi:application --log-file -

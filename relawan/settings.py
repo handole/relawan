@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/1.11/ref/settings/
 
 import os
 import django_heroku
+import dj_database_url
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -70,6 +71,7 @@ REST_FRAMEWORK = {
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'corsheaders.middleware.CorsMiddleware', # cors middleware
     'django.middleware.common.CommonMiddleware',
@@ -115,22 +117,15 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'relawan',
         'USER': 'postgres',
-        'PASSWORD': 'ho555iv020',
+        'PASSWORD': 'satuseketjujulawe',
         'HOST': 'localhost',
         'PORT': '5432',
     }
 }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'calegbin_tang12',
-#         'USER': 'calegbin_tang',
-#         'PASSWORD': 'segokucing12',
-#         'HOST': 'calegbintang.xyz',
-#         'PORT': '3306',
-#     }
-# }
+
+db_from_env = dj_database_url.config(conn_max_age=500)
+DATAVASES['default'].update(db_from_env)
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
@@ -186,3 +181,5 @@ CORS_ORIGIN_ALLOW_ALL = True
 
 # aktivasi django-heroku
 django_heroku.settings(locals())
+
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
