@@ -17,11 +17,13 @@ from rest_framework.response import Response
 
 User = get_user_model()
 
+@login_required
 def load_kelurahan(request):
 	kecamatan_id = request.GET.get('kecamatan')
 	kelurahan = Kelurahan.objects.filter(kecamatan_id=kecamatan_id).order_by('name')
 	return render(request, 'dapil/kelurahan_dropdown_list_options.html', {'kelurahan':kelurahan})
 
+@login_required
 def index(request):
 	relawan = Relawan.objects.all()
 	return render(request, 'index.html', {'relawan':relawan})	

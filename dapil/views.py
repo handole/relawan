@@ -60,6 +60,8 @@ def delete_rtrw(request, pk=None):
 	rtrw.delete()
 	return redirect('dapil:rtrw')
 
+
+@login_required
 def dapil(request):
 	hit_camat = Kabupaten.objects.all()
 	hit_relawan = Kecamatan.objects.all()
@@ -87,6 +89,7 @@ def dapil(request):
 		'paginator':paginator
 	}
 	return render(request, 'dapil/dapil.html', context)
+
 
 def search_relawan(request, *args, **kwargs):
 	data = dict()
