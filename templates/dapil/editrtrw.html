@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+{% load bootstrap %}
+
+{% block title %}Edit RT/RW{% endblock title %}
+
+{% block content %}
+<div class="main">
+  <div class="main-content">
+  <div class="container-fluid">
+
+    <div class="row">
+      <div class="col-md-12">
+        <!-- BORDERED TABLE -->
+        <div class="panel">
+          <div class="panel-heading">
+            <h3 class="panel-title">Edit RT / RW</h3>
+          </div>
+          <div class="panel-body">
+            <form method="POST">{% csrf_token %}
+              <div class="row">
+              <div class="col-md-8">
+              {{form|bootstrap_horizontal}}
+              </div>
+              <div class="col-md-4"></div>
+                
+              </div>
+              <br>
+              <div class="row">
+                <div class="col-md-2 col-sm-2 col-xs-12"></div>
+                <div class="col-md-10 col-sm-10 col-xs-12">
+                  <input type="submit" name="submit" class="btn btn-primary" value="Submit">
+                  <input type="reset" name="reset" class="btn btn-primary" value="Cancel">
+                </div>
+            </form>        
+          </div>
+        </div>
+        <!-- END BORDERED TABLE -->
+      </div>
+    </div>
+  </div>    
+  </div>
+</div>
+{% endblock content %}
+
+

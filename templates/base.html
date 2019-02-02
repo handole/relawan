@@ -1,0 +1,14 @@
+{% extends 'master.html' %}
+
+{% block body %}
+<!-- WRAPPER -->
+<div id="wrapper">
+{% include 'navbar.html' %}
+{% include 'sidebar.html' %}
+	{% block content %}
+
+	{% endblock content %}
+{% include 'footer.html' %}
+</div>
+{% endblock body %}
+

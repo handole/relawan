@@ -1,0 +1,89 @@
+{% extends 'base.html' %}
+
+{% block title %}Relawan{% endblock title %}
+
+{% block content %}
+<div class="main">
+  <div class="main-content">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <!-- BORDERED TABLE -->
+        <div class="panel">
+          <div class="panel-heading col-md-2 col-sm-2">
+            <h3 class="panel-title"><b>Data Relawan</b></h3>
+          </div>
+          <div class="panel-heading col-md-4 col-sm-4">
+            
+            <a href="{% url 'post:export-relawan' %}" class="btn btn-default">Export CSV</a>
+          </div>
+          <div class="panel-heading col-md-6 col-sm-6">
+            <form method="GET" class="navbar-left">
+              <div class="input-group">
+                <input type="text" name="q" class="form-control" placeholder="Search data...">
+                <span class="input-group-btn"><input type="submit" name="submit" value="Go" class="btn btn-primary"></span>
+              </div>
+            </form>
+          </div>
+          <div class="panel-body">
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+
+                  <th>Nama</th>
+                  <th>Target</th>
+                  <th>Hasil Target</th>
+                  <th>Wilayah</th>
+                  <th>Kordinator</th>
+                  <th>Action</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for obj in rela %}
+                <tr>
+                  <td><a href="{% url 'post:detail-relawan' obj.pk %}">{{obj.nama}}</a> </td>
+                  <td>{{obj.target}}</td>
+                  <td>{{obj.count_target}}</td>                  
+                  <td>{{obj.target_kelurahan}}</td>
+                  <td>{{obj.korcam}}</td>
+                  <td>
+                  <a href="{% url 'post:add-target' obj.pk %}"> <i class="fa fa-plus"></i></a> | 
+                  <a href="{% url 'post:edit-asisten' obj.id %}"><i class="fa fa-edit"></i></a> | 
+                  <a href="{% url 'post:delete-asisten' obj.id %}"><i class="fa fa-trash"></i></a>                    
+                  </td>
+                </tr>
+                {% endfor %}
+
+              </tbody>
+            </table>
+            {% if rela.has_other_pages %}
+            <ul class="pagination">
+              {% if rela.has_previous %}
+                <li><a href="?page={{rela.previous_page_number}}">&laquo;</a></li>
+              {% else %}
+                <li class="disabled"><span>&laquo;</span></li>
+              {% endif %}
+               {% for l in rela.paginator.page_range %}
+                 {% if rela.number == l %}
+                 <li class="active"><span>{{l}} <span class="sr-only">(current</span></span></li>
+                 {% else %}
+                 <li><a href="?page={{l}}">{{l}}</a></li>
+                 {% endif %}
+               {% endfor %}
+               {% if rela.has_next %}
+                 <li><a href="?page={{rela.next_page_number}}">&raquo;</a></li>
+               {% else %}
+                 <li class="disabled"><span>&raquo;</span></li>
+               {% endif %}
+            </ul>
+            {% endif %}
+          </div>
+        </div>
+        <!-- END BORDERED TABLE -->
+      </div>
+    </div>
+  </div>    
+  </div>
+</div>
+
+{% endblock content %}

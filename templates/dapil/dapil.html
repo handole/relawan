@@ -1,0 +1,145 @@
+{% extends 'base.html' %}
+{% block title %}WILAYAH{% endblock title %}
+{% block content %}
+<div class="main">
+  <div class="main-content">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <!-- BORDERED TABLE -->
+        <div class="panel">
+          <div class="panel-heading col-md-4 col-sm-4">
+            <h3 class="panel-title"><b>Sebaran Kordinator Kecamatan</b></h3>
+          </div>
+          <div class="panel-heading col-md-8 col-sm-8">
+            <a href="{% url 'dapil:rtrw-create' %}" class="btn btn-default">Add RT/RW</a>
+            <a href="{% url 'dapil:tps-add' %}" class="btn btn-default">Add TPS</a>
+            
+          </div>
+
+          <div class="panel-body">
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th>Kabupaten/Kota</th>
+                  <th>Jumlah Kecamatan</th>
+                  <th>Jumlah Kordinator</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for obj in hit_camat %}
+                <tr>
+                  <td>{{obj.name}}</td>
+                  <td>{{obj.get_kecamatan}}</td>
+                  <td>{{obj.count_korcam}}</td>
+                </tr>
+                {% endfor %}
+
+              </tbody>
+            </table>
+            {% if lurah.has_other_pages %}
+            <ul class="pagination">
+              {% if lurah.has_previous %}
+                <li><a href="?page={{lurah.previous_page_number}}">&laquo;</a></li>
+              {% else %}
+                <li class="disabled"><span>&laquo;</span></li>
+              {% endif %}
+               {% for l in lurah.paginator.page_range %}
+                 {% if lurah.number == l %}
+                 <li class="active"><span>{{l}} <span class="sr-only">(current)</span></span></li>
+                 {% else %}
+                 <li><a href="?page={{l}}">{{l}}</a></li>
+                 {% endif %}
+               {% endfor %}
+               {% if lurah.has_next %}
+                 <li><a href="?page={{lurah.next_page_number}}">&raquo;</a></li>
+               {% else %}
+                 <li class="disabled"><span>&raquo;</span></li>
+               {% endif %}
+            </ul>
+            {% endif %}
+          </div>
+        </div>
+        <!-- END BORDERED TABLE -->
+
+        <!-- BORDERED TABLE -->
+        <div class="panel">
+          <div class="panel-heading col-md-2 col-sm-2">
+            <h3 class="panel-title"><b>Sebaran Asisten</b></h3>
+          </div>
+          <div class="panel-heading col-md-4 col-sm-4">
+              <input type="select" id="id_kabupaten">
+          </div>
+          <div class="panel-heading col-md-6 col-sm-6">
+            <form method="GET" class="navbar-left">
+              <div class="input-group">
+                <input type="text" name="q" class="form-control" placeholder="Search data...">
+                <span class="input-group-btn"><input type="submit" name="submit" value="Go" class="btn btn-primary"></span>
+              </div>
+            </form>
+          </div>
+          <div class="panel-body">
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th>Kecamatan</th>
+                  <th>Jumlah Kelurahan</th>
+                  <th>Jumlah Asisten</th>
+                  
+                </tr>
+              </thead>
+              <tbody>
+                {% for obj in hit_relawan %}
+                <tr>
+                  <td>{{obj.name}}</td>
+                  <td>{{obj.count_desa}}</td>
+                  <td>{{obj.count_asisten}}</td>
+
+                </tr>
+                {% endfor %}
+
+              </tbody>
+            </table>
+            {% if lurah.has_other_pages %}
+            <ul class="pagination">
+              {% if lurah.has_previous %}
+                <li><a href="?page={{lurah.previous_page_number}}">&laquo;</a></li>
+              {% else %}
+                <li class="disabled"><span>&laquo;</span></li>
+              {% endif %}
+               {% for l in lurah.paginator.page_range %}
+                 {% if lurah.number == l %}
+                 <li class="active"><span>{{l}} <span class="sr-only">(current)</span></span></li>
+                 {% else %}
+                 <li><a href="?page={{l}}">{{l}}</a></li>
+                 {% endif %}
+               {% endfor %}
+               {% if lurah.has_next %}
+                 <li><a href="?page={{lurah.next_page_number}}">&raquo;</a></li>
+               {% else %}
+                 <li class="disabled"><span>&raquo;</span></li>
+               {% endif %}
+            </ul>
+            {% endif %}
+          </div>
+        </div>
+        <!-- END BORDERED TABLE -->
+
+      </div>
+    </div>
+  </div>    
+  </div>
+</div>
+<script>
+  $.ajax({
+    url : "http://localhost:8000/api/kabupaten/",
+    headers : { 'Access-Control-Allow-Origin': 'htt://site allowed to access' },
+    type : "GET",
+    dataType : "jsonp",
+    data : {
+      'provinsi': 
+    }
+  })
+</script>
+{% endblock content %}
+

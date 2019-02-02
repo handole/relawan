@@ -1,0 +1,98 @@
+{% extends 'base.html' %}
+
+{% load bootstrap %}
+{% block title %}HOME{% endblock title %}
+{% block content %}
+<div class="main">
+  <div class="main-content">
+  <div class="container-fluid">
+    <div class="row">
+
+        <!-- BORDERED TABLE -->
+        <div class="panel">
+          <div class="panel-heading col-md-6 col-sm-12">
+            <h3 class="panel-title"><b>Data Relawan</b></h3>
+          </div>
+
+          <div class="panel-heading col-md-6 col-sm-12">
+            <form method="GET" class="navbar-left" >
+              <div class="input-group">
+                <input type="text" name="q" class="form-control" placeholder="Search data...">
+                <span class="input-group-btn"><input type="submit" name="submit" value="Go" class="btn btn-primary"></span>
+              </div>
+            </form>
+          </div>
+          <div class="panel-body">
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th>Kordinator Kecamatan</th>
+                  <th>Asisten</th>
+                  <th>Wilayah</th>
+                  <th>Target</th>
+                  <th>Realisasi</th>           
+                  <th>Sisa</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for kordi in relawan %}
+                <tr>
+                  <td>{{kordi.korcam}}</td>
+                  <td>{{kordi.nama}}</td>
+                  <td>{{kordi.target_kelurahan}}, {{kordi.target_kelurahan.kecamatan}}</td>
+                  <td>{{kordi.target}}</td>
+                  <td>{{kordi.count_target}}</td>
+                  <td>{{kordi.sisa_target}}</td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <!-- END BORDERED TABLE -->
+
+      </div>
+
+    </div>
+  </div>    
+  </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+<script>
+{% block jquery %}
+var endpoint = '/api/chart/data/'
+$.ajax({
+  method: "GET",
+  url: endpoint,
+  success: function(data){
+    console.log(data)
+    console.log(data.customer * 234)
+  },
+  error: function(error_data){
+    console.log("error")
+    console.log(error_data)
+  }
+})
+
+    $("#id_kecamatan").change(function () {
+      var url = $("#relawanForm").attr("data-kelurahan-url");  // get the url of the `load_cities` view
+      var kecamatanId = $(this).val();  // get the selected country ID from the HTML input
+
+      $.ajax({                       // initialize an AJAX request
+        url: url,                    // set the url of the request (= localhost:8000/hr/ajax/load-cities/)
+        data: {
+          'kecamatan': kecamatanId       // add the country id to the GET parameters
+        },
+        success: function  (data) {   // `data` is the return of the `load_cities` view function
+          $("#id_kelurahan").html(data);  // replace the contents of the city input with the data that came from the server
+        }
+      });
+    });
+{% endblock jquery %}
+</script>
+
+{% endblock content %}
+
+  

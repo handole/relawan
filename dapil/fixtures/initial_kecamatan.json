@@ -1,0 +1,322 @@
+[
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332801,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Margasari"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332802,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Bumijawa"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332803,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Bojong"
+		}
+	},	
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332804,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Balapulang"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332805,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Pagerbarang"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332806,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Lebaksiu"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332807,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Jatinegara"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332808,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Kedungbanteng"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332809,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Pangkah"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332810,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Slawi"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332811,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Adiwerna"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332812,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Talang"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332813,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Dukuhturi"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332814,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Tarub"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332815,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Kramat"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332816,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Suradadi"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332817,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Warureja"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332818,
+		"fields": {
+			"kabupaten": 3328,
+			"name": "Dukuhwaru"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332901,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Salem"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332902,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Bantarkawung"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332903,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Bumiayu"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332904,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Paguyangan"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332905,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Sirampog"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332906,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Tonjong"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332907,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Jatibarang"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332908,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Wanasari"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332909,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Brebes"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332910,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Songgom"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332911,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Kersana"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332912,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Losari"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332913,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Tanjung"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332914,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Bulakamba"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332915,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Larangan"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332916,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Ketanggungan"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332917,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Banjarharjo"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 332917,
+		"fields": {
+			"kabupaten": 3329,
+			"name": "Banjarharjo"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 337601,
+		"fields": {
+			"kabupaten": 3376,
+			"name": "Tegal Barat"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 337602,
+		"fields": {
+			"kabupaten": 3376,
+			"name": "Tegal Timur"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 337603,
+		"fields": {
+			"kabupaten": 3376,
+			"name": "Tegal Selatan"
+		}
+	},
+	{
+		"model": "dapil.kecamatan",
+		"pk": 337604,
+		"fields": {
+			"kabupaten": 3376,
+			"name": "Margadana"
+		}
+	}
+]

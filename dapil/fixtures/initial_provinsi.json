@@ -1,0 +1,9 @@
+[
+	{
+		"model": "dapil.provinsi",
+		"pk": 33,
+		"fields": {
+			"name": "Jawa Tengah"
+		}
+	}
+]

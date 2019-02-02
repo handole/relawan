@@ -1,0 +1,385 @@
+[
+	{"model": "dapil.kelurahan", "pk": 3328012001, "fields": 
+		{"kecamatan": 332801, "name": "Prupuk Selatan", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328012002, "fields": 
+		{"kecamatan": 332801, "name": "Kaligayam", "jenis": "Desa"
+		}
+	}, 
+	{
+		"model": "dapil.kelurahan", "pk": 3328012003, "fields": 
+		{"kecamatan": 332801, "name": "Dukuh Tengah", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328012004, "fields": 
+		{"kecamatan": 332801, "name": "Wanasari", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328012005, "fields": 
+		{"kecamatan": 332801, "name": "Danaraja", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328012006, "fields": 
+		{"kecamatan": 332801, "name": "Jembayat", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328012007, "fields": 
+		{"kecamatan": 332801, "name": "Margasari", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328012008, "fields": 
+		{"kecamatan": 332801, "name": "Pakulaut", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328012009, "fields": 
+		{"kecamatan": 332801, "name": "Karangdawa", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328012010, "fields": 
+		{"kecamatan": 332801, "name": "Kalisalak", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328012011, "fields": 
+		{"kecamatan": 332801, "name": "Jatilaba", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328012012, "fields": 
+		{"kecamatan": 332801, "name": "Prupuk Utata", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328012013, "fields": 
+		{"kecamatan": 332801, "name": "Marga Ayu", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022001, "fields": 
+		{"kecamatan": 332802, "name": "Guci", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022002, "fields": 
+		{"kecamatan": 332802, "name": "Sigedong", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022003, "fields": 
+		{"kecamatan": 332802, "name": "Batumirah", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022004, "fields": 
+		{"kecamatan": 332802, "name": "Bumijawa", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022005, "fields": 
+		{"kecamatan": 332802, "name": "Sokasari", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022006, "fields": 
+		{"kecamatan": 332802, "name": "Sokatengah", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022007, "fields": 
+		{"kecamatan": 332802, "name": "Sumbaga", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022008, "fields": 
+		{"kecamatan": 332802, "name": "Traju", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022009, "fields": 
+		{"kecamatan": 332802, "name": "Muncanglarang", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022010, "fields": 
+		{"kecamatan": 332802, "name": "Begawat", "jenis": "Desa"
+	}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022011, "fields": 
+		{"kecamatan": 332802, "name": "Dukuhbenda", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022012, "fields": 
+		{"kecamatan": 332802, "name": "Cintamanik", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022013, "fields": 
+		{"kecamatan": 332802, "name": "Cempaka", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022014, "fields": 
+		{"kecamatan": 332802, "name": "Gunungagung", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022015, "fields": 
+		{"kecamatan": 332802, "name": "Jejeg", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022016, "fields": 
+		{"kecamatan": 332802, "name": "Pagerkasih", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022017, "fields": 
+		{"kecamatan": 332802, "name": "Carul", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328022018, "fields": 
+		{"kecamatan": 332802, "name": "Cawitali", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032001, "fields": 
+		{"kecamatan": 332803, "name": "Rembul", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032002, "fields": 
+		{"kecamatan": 332803, "name": "Dukuhtengah", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032003, "fields": 
+		{"kecamatan": 332803, "name": "Kedawung", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032004, "fields": 
+		{"kecamatan": 332803, "name": "Suniarsih", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032005, "fields": 
+		{"kecamatan": 332803, "name": "Karangmulya", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032006, "fields": 
+		{"kecamatan": 332803, "name": "Tuwel", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032007, "fields": 
+		{"kecamatan": 332803, "name": "Bojong", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032008, "fields": 
+		{"kecamatan": 332803, "name": "Buniwah", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032009, "fields": 
+		{"kecamatan": 332803, "name": "Lengkong", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032010, "fields": 
+		{"kecamatan": 332803, "name": "Batunyana", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032011, "fields": 
+		{"kecamatan": 332803, "name": "Sangkanayu", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032012, "fields": 
+		{"kecamatan": 332803, "name": "Gunungjati", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032013, "fields": 
+		{"kecamatan": 332803, "name": "Pucangluwuk", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032014, "fields": 
+		{"kecamatan": 332803, "name": "Kajenengan", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032015, "fields": 
+		{"kecamatan": 332803, "name": "Kalijambu", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032016, "fields": 
+		{"kecamatan": 332803, "name": "Danasari", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328032017, "fields": 
+		{"kecamatan": 332803, "name": "Cikura", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042001, "fields": 
+		{"kecamatan": 332804, "name": "Cenggini", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042002, "fields": 
+		{"kecamatan": 332804, "name": "Bukateja", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042003, "fields": 
+		{"kecamatan": 332804, "name": "Kalibakung", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042004, "fields": 
+		{"kecamatan": 332804, "name": "Karangjambu", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042005, "fields": 
+		{"kecamatan": 332804, "name": "Cilongok", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042006, "fields": 
+		{"kecamatan": 332804, "name": "Tembongwah", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042007, "fields": 
+		{"kecamatan": 332804, "name": "Danareja", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042008, "fields": 
+		{"kecamatan": 332804, "name": "Sangkanjaya", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042009, "fields": 
+		{"kecamatan": 332804, "name": "Danawarih", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042010, "fields": 
+		{"kecamatan": 332804, "name": "Pagerwangi", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042011, "fields": 
+		{"kecamatan": 332804, "name": "Harjowinangun", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042012, "fields": 
+		{"kecamatan": 332804, "name": "Batuagung", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042013, "fields": 
+		{"kecamatan": 332804, "name": "Kaliwungu", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042014, "fields": 
+		{"kecamatan": 332804, "name": "Banjaranyar", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042015, "fields": 
+		{"kecamatan": 332804, "name": "Sesepan", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042016, "fields": 
+		{"kecamatan": 332804, "name": "Wringinjenggot", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042017, "fields": 
+		{"kecamatan": 332804, "name": "Pamiritan", "jenis": "Desa"
+		}
+	},
+	{"model": "dapil.kelurahan", "pk": 3328042018, "fields": 
+		{"kecamatan": 332804, "name": "Balapulang Wetan", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042019, "fields": 
+		{"kecamatan": 332804, "name": "Balapulang Kulon", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328042020, "fields": 
+		{"kecamatan": 332804, "name": "Cibunar", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052001, "fields": 
+		{"kecamatan": 332805, "name": "Srengseng", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052002, "fields": 
+		{"kecamatan": 332805, "name": "Rajegwesi", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052003, "fields": 
+		{"kecamatan": 332805, "name": "Sidamulya", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052004, "fields": 
+		{"kecamatan": 332805, "name": "Mulyoharjo", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052005, "fields": 
+		{"kecamatan": 332805, "name": "Semboja", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052006, "fields": 
+		{"kecamatan": 332805, "name": "Randusari", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052007, "fields": 
+		{"kecamatan": 332805, "name": "Jatiwangi", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052008, "fields": 
+		{"kecamatan": 332805, "name": "Pagerbarang", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052009, "fields": 
+		{"kecamatan": 332805, "name": "Karanganyar", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052010, "fields": 
+		{"kecamatan": 332805, "name": "Kertaharja", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052011, "fields": 
+		{"kecamatan": 332805, "name": "Kedungsugih", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052012, "fields": 
+		{"kecamatan": 332805, "name": "Surokidul", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328052013, "fields": 
+		{"kecamatan": 332805, "name": "Pesarean", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062001, "fields": 
+		{"kecamatan": 332806, "name": "Timbangreja", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062002, "fields": 
+		{"kecamatan": 332806, "name": "Lebaksiu Kidul", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062003, "fields": 
+		{"kecamatan": 332806, "name": "Lebaksiu Lor", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062004, "fields": 
+		{"kecamatan": 332806, "name": "Kajen", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062005, "fields": 
+		{"kecamatan": 332806, "name": "Yamansari", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062006, "fields": 
+		{"kecamatan": 332806, "name": "Kesuben", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062007, "fields": 
+		{"kecamatan": 332806, "name": "Balaradin", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062008, "fields": 
+		{"kecamatan": 332806, "name": "Lebakgowah", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062009, "fields": 
+		{"kecamatan": 332806, "name": "Dukuhlo", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062010, "fields": 
+		{"kecamatan": 332806, "name": "Pendawa", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062011, "fields": 
+		{"kecamatan": 332806, "name": "Jatimulya", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062012, "fields": 
+		{"kecamatan": 332806, "name": "Kambangan", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062013, "fields": 
+		{"kecamatan": 332806, "name": "Slarangkidul", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062014, "fields": 
+		{"kecamatan": 332806, "name": "Tegalandong", "jenis": "Desa"
+		}
+	}, 
+	{"model": "dapil.kelurahan", "pk": 3328062015, "fields": 
+			{"kecamatan": 332806, "name": "Dukuhdamu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072001, "fields": {"kecamatan": 332807, "name": "Kedungwungu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072002, "fields": {"kecamatan": 332807, "name": "Mokaha", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072003, "fields": {"kecamatan": 332807, "name": "Penyalahan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072004, "fields": {"kecamatan": 332807, "name": "Sitail", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072005, "fields": {"kecamatan": 332807, "name": "Sumbarang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072006, "fields": {"kecamatan": 332807, "name": "Cerih", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072007, "fields": {"kecamatan": 332807, "name": "Gantungan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072008, "fields": {"kecamatan": 332807, "name": "Argatawang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072009, "fields": {"kecamatan": 332807, "name": "Padasari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072010, "fields": {"kecamatan": 332807, "name": "Capar", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072011, "fields": {"kecamatan": 332807, "name": "Lebakwangi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072012, "fields": {"kecamatan": 332807, "name": "Dukuhbangsa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072013, "fields": {"kecamatan": 332807, "name": "Jatinegara", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072014, "fields": {"kecamatan": 332807, "name": "Luwijawa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072015, "fields": {"kecamatan": 332807, "name": "Lembasari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072016, "fields": {"kecamatan": 332807, "name": "Tamansari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328072017, "fields": {"kecamatan": 332807, "name": "Wotgalih", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328082001, "fields": {"kecamatan": 332808, "name": "Penujah", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328082002, "fields": {"kecamatan": 332808, "name": "Karanganyar", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328082003, "fields": {"kecamatan": 332808, "name": "Tonggara", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328082004, "fields": {"kecamatan": 332808, "name": "Kedungbanteng", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328082005, "fields": {"kecamatan": 332808, "name": "Dukuhjati Wetan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328082006, "fields": {"kecamatan": 332808, "name": "Sumingkir", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328082007, "fields": {"kecamatan": 332808, "name": "Margamulya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328082008, "fields": {"kecamatan": 332808, "name": "Kebandingan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328082009, "fields": {"kecamatan": 332808, "name": "Karangmalang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328082010, "fields": {"kecamatan": 332808, "name": "Semedo", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092001, "fields": {"kecamatan": 332809, "name": "Dermasuci", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092002, "fields": {"kecamatan": 332809, "name": "Pener", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092003, "fields": {"kecamatan": 332809, "name": "Dukuhjati Kidul", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092004, "fields": {"kecamatan": 332809, "name": "Depok", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092005, "fields": {"kecamatan": 332809, "name": "Penusupan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092006, "fields": {"kecamatan": 332809, "name": "Bogares Kidul", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092007, "fields": {"kecamatan": 332809, "name": "Bogares Lor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092008, "fields": {"kecamatan": 332809, "name": "Pangkah", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092009, "fields": {"kecamatan": 332809, "name": "Dukuhsembung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092010, "fields": {"kecamatan": 332809, "name": "Curug", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092011, "fields": {"kecamatan": 332809, "name": "Kendalserut", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092012, "fields": {"kecamatan": 332809, "name": "Grobog Kulon", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092013, "fields": {"kecamatan": 332809, "name": "Bedug", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092014, "fields": {"kecamatan": 332809, "name": "Pecabean", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092015, "fields": {"kecamatan": 332809, "name": "Grobog Wetan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092016, "fields": {"kecamatan": 332809, "name": "Talok", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092017, "fields": {"kecamatan": 332809, "name": "Paketiban", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092018, "fields": {"kecamatan": 332809, "name": "Rancawiru", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092019, "fields": {"kecamatan": 332809, "name": "Jenggawur", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092020, "fields": {"kecamatan": 332809, "name": "Kalikangkung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092021, "fields": {"kecamatan": 332809, "name": "Pubayasa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092022, "fields": {"kecamatan": 332809, "name": "Dermasandi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328092023, "fields": {"kecamatan": 332809, "name": "Balamoa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328101006, "fields": {"kecamatan": 332810, "name": "Pakembaran", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3328101007, "fields": {"kecamatan": 332810, "name": "Kagok", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3328101008, "fields": {"kecamatan": 332810, "name": "Procot", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3328101009, "fields": {"kecamatan": 332810, "name": "Kudaile", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3328101010, "fields": {"kecamatan": 332810, "name": "Slawi Wetan", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3328102001, "fields": {"kecamatan": 332810, "name": "Kalisapu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328102002, "fields": {"kecamatan": 332810, "name": "Dukuhwringin", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328102003, "fields": {"kecamatan": 332810, "name": "Dukuhsalam", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328102004, "fields": {"kecamatan": 332810, "name": "Slawi Kulon", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328102005, "fields": {"kecamatan": 332810, "name": "Trayeman", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112001, "fields": {"kecamatan": 332811, "name": "Pedeslohor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112002, "fields": {"kecamatan": 332811, "name": "Lumingser", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112003, "fields": {"kecamatan": 332811, "name": "Kedungsukun", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112004, "fields": {"kecamatan": 332811, "name": "Pagiyanten", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112005, "fields": {"kecamatan": 332811, "name": "Penarukan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112006, "fields": {"kecamatan": 332811, "name": "Harjosari Lor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112007, "fields": {"kecamatan": 332811, "name": "Tembok Lor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112008, "fields": {"kecamatan": 332811, "name": "Tembok Kidul", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112009, "fields": {"kecamatan": 332811, "name": "Tembok Banjaran", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112010, "fields": {"kecamatan": 332811, "name": "Tembok Luwung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112011, "fields": {"kecamatan": 332811, "name": "Adiwerna", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112012, "fields": {"kecamatan": 332811, "name": "Kalimati", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112013, "fields": {"kecamatan": 332811, "name": "Lemahduwur", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112014, "fields": {"kecamatan": 332811, "name": "Pesarean", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112015, "fields": {"kecamatan": 332811, "name": "Ujungrusi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112016, "fields": {"kecamatan": 332811, "name": "Pagedangan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112017, "fields": {"kecamatan": 332811, "name": "Kaliwadas", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112018, "fields": {"kecamatan": 332811, "name": "Pecangakan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112019, "fields": {"kecamatan": 332811, "name": "Gumalar", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112020, "fields": {"kecamatan": 332811, "name": "Bersole", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328112021, "fields": {"kecamatan": 332811, "name": "Harjosari Kidul", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122001, "fields": {"kecamatan": 332812, "name": "Pegirikan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122002, "fields": {"kecamatan": 332812, "name": "Pekiringan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122003, "fields": {"kecamatan": 332812, "name": "Gembongkulon", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122004, "fields": {"kecamatan": 332812, "name": "Pasangan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122005, "fields": {"kecamatan": 332812, "name": "Langgen", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122006, "fields": {"kecamatan": 332812, "name": "Bengle", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122007, "fields": {"kecamatan": 332812, "name": "Dukuhmalang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122008, "fields": {"kecamatan": 332812, "name": "Pesayangan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122009, "fields": {"kecamatan": 332812, "name": "Kajen", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122010, "fields": {"kecamatan": 332812, "name": "Kebasen", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122011, "fields": {"kecamatan": 332812, "name": "Tegalwangi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122012, "fields": {"kecamatan": 332812, "name": "Kaligayam", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122013, "fields": {"kecamatan": 332812, "name": "Talang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122014, "fields": {"kecamatan": 332812, "name": "Kaladawa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122015, "fields": {"kecamatan": 332812, "name": "Cangkring", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122016, "fields": {"kecamatan": 332812, "name": "Dawuhan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122017, "fields": {"kecamatan": 332812, "name": "Getaskerep", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122018, "fields": {"kecamatan": 332812, "name": "Pacul", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328122019, "fields": {"kecamatan": 332812, "name": "Wangandawa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132001, "fields": {"kecamatan": 332813, "name": "Ketanggungan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132002, "fields": {"kecamatan": 332813, "name": "Kupu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132003, "fields": {"kecamatan": 332813, "name": "Sidakaton", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132004, "fields": {"kecamatan": 332813, "name": "Sidapurna", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132005, "fields": {"kecamatan": 332813, "name": "Pepedan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132006, "fields": {"kecamatan": 332813, "name": "Pengarasan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132007, "fields": {"kecamatan": 332813, "name": "Lawatan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132008, "fields": {"kecamatan": 332813, "name": "Dukuhturi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132009, "fields": {"kecamatan": 332813, "name": "Pekauman Kulon", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132010, "fields": {"kecamatan": 332813, "name": "Pagongan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132011, "fields": {"kecamatan": 332813, "name": "Debongwetan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132012, "fields": {"kecamatan": 332813, "name": "Kepandean", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132013, "fields": {"kecamatan": 332813, "name": "Grogol", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132014, "fields": {"kecamatan": 332813, "name": "Bandasari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132015, "fields": {"kecamatan": 332813, "name": "Sutapranan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132016, "fields": {"kecamatan": 332813, "name": "Kademangaran", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132017, "fields": {"kecamatan": 332813, "name": "Karanganyar", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328132018, "fields": {"kecamatan": 332813, "name": "Pengabean", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142001, "fields": {"kecamatan": 332814, "name": "Jatirawa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142002, "fields": {"kecamatan": 332814, "name": "Kabukan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142003, "fields": {"kecamatan": 332814, "name": "Setu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142004, "fields": {"kecamatan": 332814, "name": "Purbasana", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142005, "fields": {"kecamatan": 332814, "name": "Kemanggungan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142006, "fields": {"kecamatan": 332814, "name": "Karangmangu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142007, "fields": {"kecamatan": 332814, "name": "Lebeteng", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142008, "fields": {"kecamatan": 332814, "name": "Brekat", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142009, "fields": {"kecamatan": 332814, "name": "Karangjati", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142010, "fields": {"kecamatan": 332814, "name": "Bulakwaru", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142011, "fields": {"kecamatan": 332814, "name": "Mindaka", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142012, "fields": {"kecamatan": 332814, "name": "Tarub", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142013, "fields": {"kecamatan": 332814, "name": "Kedungbungkus", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142014, "fields": {"kecamatan": 332814, "name": "Kedokansayang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142015, "fields": {"kecamatan": 332814, "name": "Bumiharja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142016, "fields": {"kecamatan": 332814, "name": "Kalijambe", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142017, "fields": {"kecamatan": 332814, "name": "Margapadang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142018, "fields": {"kecamatan": 332814, "name": "Kesamiran", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142019, "fields": {"kecamatan": 332814, "name": "Kesadikan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328142020, "fields": {"kecamatan": 332814, "name": "Mangunsaren", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328151019, "fields": {"kecamatan": 332815, "name": "Dampyak", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3328152001, "fields": {"kecamatan": 332815, "name": "Mejasem Barat", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152002, "fields": {"kecamatan": 332815, "name": "Jatilawang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152003, "fields": {"kecamatan": 332815, "name": "Babakan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152004, "fields": {"kecamatan": 332815, "name": "Kemantran", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152005, "fields": {"kecamatan": 332815, "name": "Kertaharja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152006, "fields": {"kecamatan": 332815, "name": "Ketileng", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152007, "fields": {"kecamatan": 332815, "name": "Kepunduhan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152008, "fields": {"kecamatan": 332815, "name": "Bangun Galih", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152009, "fields": {"kecamatan": 332815, "name": "Tanjungharja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152010, "fields": {"kecamatan": 332815, "name": "Kemuning", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152011, "fields": {"kecamatan": 332815, "name": "Plumbungan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152012, "fields": {"kecamatan": 332815, "name": "Maribaya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152013, "fields": {"kecamatan": 332815, "name": "Kramat", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152014, "fields": {"kecamatan": 332815, "name": "Bongkok", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152015, "fields": {"kecamatan": 332815, "name": "Munjungagung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152016, "fields": {"kecamatan": 332815, "name": "Dinuk", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152017, "fields": {"kecamatan": 332815, "name": "Kertayasa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152018, "fields": {"kecamatan": 332815, "name": "Padaharja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328152020, "fields": {"kecamatan": 332815, "name": "Mejasem Timur", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328162001, "fields": {"kecamatan": 332816, "name": "Karangwuluh", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328162002, "fields": {"kecamatan": 332816, "name": "Gembongdadi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328162003, "fields": {"kecamatan": 332816, "name": "Karangmulya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328162004, "fields": {"kecamatan": 332816, "name": "Harjasari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328162005, "fields": {"kecamatan": 332816, "name": "Kertasari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328162006, "fields": {"kecamatan": 332816, "name": "Jatimulya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328162007, "fields": {"kecamatan": 332816, "name": "Jatibogor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328162008, "fields": {"kecamatan": 332816, "name": "Sidaharja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328162009, "fields": {"kecamatan": 332816, "name": "Purwahamba", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328162010, "fields": {"kecamatan": 332816, "name": "Suradadi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328162011, "fields": {"kecamatan": 332816, "name": "Bojongsana", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328172001, "fields": {"kecamatan": 332817, "name": "Sidamulya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328172002, "fields": {"kecamatan": 332817, "name": "Kedungjati", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328172003, "fields": {"kecamatan": 332817, "name": "Kendayakan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328172004, "fields": {"kecamatan": 332817, "name": "Warureja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328172005, "fields": {"kecamatan": 332817, "name": "Demangharjo", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328172006, "fields": {"kecamatan": 332817, "name": "Banjarturi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328172007, "fields": {"kecamatan": 332817, "name": "Kedungkelor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328172008, "fields": {"kecamatan": 332817, "name": "Sukareja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328172009, "fields": {"kecamatan": 332817, "name": "Banjaragung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328172010, "fields": {"kecamatan": 332817, "name": "Sigentong", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328172011, "fields": {"kecamatan": 332817, "name": "Kreman", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328172012, "fields": {"kecamatan": 332817, "name": "Rangi Mulya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328182001, "fields": {"kecamatan": 332818, "name": "Slaranglor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328182002, "fields": {"kecamatan": 332818, "name": "Selapura", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328182003, "fields": {"kecamatan": 332818, "name": "Blubuk", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328182004, "fields": {"kecamatan": 332818, "name": "Gumayun", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328182005, "fields": {"kecamatan": 332818, "name": "Kabunan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328182006, "fields": {"kecamatan": 332818, "name": "Pedagangan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328182007, "fields": {"kecamatan": 332818, "name": "Kalisoka", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328182008, "fields": {"kecamatan": 332818, "name": "Sindang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328182009, "fields": {"kecamatan": 332818, "name": "Dukuhwaru", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3328182010, "fields": {"kecamatan": 332818, "name": "Bulakpacing", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012001, "fields": {"kecamatan": 332901, "name": "Banjaran", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012002, "fields": {"kecamatan": 332901, "name": "Bentar", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012003, "fields": {"kecamatan": 332901, "name": "Bentarsari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012004, "fields": {"kecamatan": 332901, "name": "Capar", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012005, "fields": {"kecamatan": 332901, "name": "Ciputih", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012006, "fields": {"kecamatan": 332901, "name": "Citimbang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012007, "fields": {"kecamatan": 332901, "name": "Ganggawang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012008, "fields": {"kecamatan": 332901, "name": "Gandoang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012009, "fields": {"kecamatan": 332901, "name": "Gunungjaya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012010, "fields": {"kecamatan": 332901, "name": "Gununglarang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012011, "fields": {"kecamatan": 332901, "name": "Gunungsugih", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012012, "fields": {"kecamatan": 332901, "name": "Gunungtajem", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012013, "fields": {"kecamatan": 332901, "name": "Indrajaya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012014, "fields": {"kecamatan": 332901, "name": "Kadumanis", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012015, "fields": {"kecamatan": 332901, "name": "Pabuaran", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012016, "fields": {"kecamatan": 332901, "name": "Pasirpanjang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012017, "fields": {"kecamatan": 332901, "name": "Salem", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012018, "fields": {"kecamatan": 332901, "name": "Tembongraja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012019, "fields": {"kecamatan": 332901, "name": "Wanoja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012020, "fields": {"kecamatan": 332901, "name": "Winduasri", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329012021, "fields": {"kecamatan": 332901, "name": "Windusakti", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022001, "fields": {"kecamatan": 332902, "name": "Bangbayang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022002, "fields": {"kecamatan": 332902, "name": "Banjarsari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022003, "fields": {"kecamatan": 332902, "name": "Bantarkawung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022004, "fields": {"kecamatan": 332902, "name": "Bantarwaru", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022005, "fields": {"kecamatan": 332902, "name": "Cibentang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022006, "fields": {"kecamatan": 332902, "name": "Cinanas", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022007, "fields": {"kecamatan": 332902, "name": "Ciomas", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022008, "fields": {"kecamatan": 332902, "name": "Jipang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022009, "fields": {"kecamatan": 332902, "name": "Karangapri", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022010, "fields": {"kecamatan": 332902, "name": "Kebandungan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022011, "fields": {"kecamatan": 332902, "name": "Legok", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022012, "fields": {"kecamatan": 332902, "name": "Pangebatan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022013, "fields": {"kecamatan": 332902, "name": "Pengarasan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022014, "fields": {"kecamatan": 332902, "name": "Sindangwangi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022015, "fields": {"kecamatan": 332902, "name": "Tambakserang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022016, "fields": {"kecamatan": 332902, "name": "Terlaya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022017, "fields": {"kecamatan": 332902, "name": "Telaga", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329022018, "fields": {"kecamatan": 332902, "name": "Waru", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032001, "fields": {"kecamatan": 332903, "name": "Adisana", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032002, "fields": {"kecamatan": 332903, "name": "Bumiayu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032003, "fields": {"kecamatan": 332903, "name": "Dukuhturi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032004, "fields": {"kecamatan": 332903, "name": "Jatisawit", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032005, "fields": {"kecamatan": 332903, "name": "Kalierang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032006, "fields": {"kecamatan": 332903, "name": "Kalilangkap", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032007, "fields": {"kecamatan": 332903, "name": "Kalinusu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032008, "fields": {"kecamatan": 332903, "name": "Kalisumur", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032009, "fields": {"kecamatan": 332903, "name": "Kaliwadas", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032010, "fields": {"kecamatan": 332903, "name": "Langkap", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032011, "fields": {"kecamatan": 332903, "name": "Laren", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032012, "fields": {"kecamatan": 332903, "name": "Negaradaha", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032013, "fields": {"kecamatan": 332903, "name": "Pamijen", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032014, "fields": {"kecamatan": 332903, "name": "Penggarutan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329032015, "fields": {"kecamatan": 332903, "name": "Pruwatan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329042001, "fields": {"kecamatan": 332904, "name": "Cilibur", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329042002, "fields": {"kecamatan": 332904, "name": "Cipetung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329042003, "fields": {"kecamatan": 332904, "name": "Kedungoleng", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329042004, "fields": {"kecamatan": 332904, "name": "Kretek", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329042005, "fields": {"kecamatan": 332904, "name": "Pagojengan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329042006, "fields": {"kecamatan": 332904, "name": "Paguyangan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329042007, "fields": {"kecamatan": 332904, "name": "Pakujati", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329042008, "fields": {"kecamatan": 332904, "name": "Pandansari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329042009, "fields": {"kecamatan": 332904, "name": "Ragatunjung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329042010, "fields": {"kecamatan": 332904, "name": "Taraban", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329042011, "fields": {"kecamatan": 332904, "name": "Wanatirta", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329042012, "fields": {"kecamatan": 332904, "name": "Winduaji", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052001, "fields": {"kecamatan": 332905, "name": "Batusari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052002, "fields": {"kecamatan": 332905, "name": "Benda", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052003, "fields": {"kecamatan": 332905, "name": "Buniwah", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052004, "fields": {"kecamatan": 332905, "name": "Dawuhan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052005, "fields": {"kecamatan": 332905, "name": "Igirklanceng", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052006, "fields": {"kecamatan": 332905, "name": "Kaligiri", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052007, "fields": {"kecamatan": 332905, "name": "Kaliloka", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052008, "fields": {"kecamatan": 332905, "name": "Manggis", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052009, "fields": {"kecamatan": 332905, "name": "Mendala", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052010, "fields": {"kecamatan": 332905, "name": "Mlayang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052011, "fields": {"kecamatan": 332905, "name": "Sridadi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052012, "fields": {"kecamatan": 332905, "name": "Plompong", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329052013, "fields": {"kecamatan": 332905, "name": "Wanareja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062001, "fields": {"kecamatan": 332906, "name": "Galuhtimur", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062002, "fields": {"kecamatan": 332906, "name": "Kalijurang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062003, "fields": {"kecamatan": 332906, "name": "Karangjongkeng", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062004, "fields": {"kecamatan": 332906, "name": "Kutamendala", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062005, "fields": {"kecamatan": 332906, "name": "Kutayu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062006, "fields": {"kecamatan": 332906, "name": "Linggapura", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062007, "fields": {"kecamatan": 332906, "name": "Negarayu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062008, "fields": {"kecamatan": 332906, "name": "Pepedan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062009, "fields": {"kecamatan": 332906, "name": "Purbayasa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062010, "fields": {"kecamatan": 332906, "name": "Rajawetan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062011, "fields": {"kecamatan": 332906, "name": "Purwodadi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062012, "fields": {"kecamatan": 332906, "name": "Tanggeran", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062013, "fields": {"kecamatan": 332906, "name": "Tonjong", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329062014, "fields": {"kecamatan": 332906, "name": "Watujaya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072001, "fields": {"kecamatan": 332907, "name": "Bojong", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072002, "fields": {"kecamatan": 332907, "name": "Buaran", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072003, "fields": {"kecamatan": 332907, "name": "Janegara", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072004, "fields": {"kecamatan": 332907, "name": "Jatibarang Kidul", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072005, "fields": {"kecamatan": 332907, "name": "Jatibarang Lor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072006, "fields": {"kecamatan": 332907, "name": "Kalialang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072007, "fields": {"kecamatan": 332907, "name": "Kalipucang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072008, "fields": {"kecamatan": 332907, "name": "Karanglo", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072009, "fields": {"kecamatan": 332907, "name": "Kebogadung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072010, "fields": {"kecamatan": 332907, "name": "Kebonagung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072011, "fields": {"kecamatan": 332907, "name": "Kedungtukang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072012, "fields": {"kecamatan": 332907, "name": "Kemiriamba", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072013, "fields": {"kecamatan": 332907, "name": "Kendawa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072014, "fields": {"kecamatan": 332907, "name": "Kertasinduyasa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072015, "fields": {"kecamatan": 332907, "name": "Klampis", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072016, "fields": {"kecamatan": 332907, "name": "Klikiran", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072017, "fields": {"kecamatan": 332907, "name": "Kramat", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072018, "fields": {"kecamatan": 332907, "name": "Pamengger", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072019, "fields": {"kecamatan": 332907, "name": "Pedeslohor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072020, "fields": {"kecamatan": 332907, "name": "Rengasbandung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072021, "fields": {"kecamatan": 332907, "name": "Tegalwulung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329072022, "fields": {"kecamatan": 332907, "name": "Tembelang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082001, "fields": {"kecamatan": 332908, "name": "Glonggong", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082002, "fields": {"kecamatan": 332908, "name": "Dukuhwringin", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082003, "fields": {"kecamatan": 332908, "name": "Dumeling", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082004, "fields": {"kecamatan": 332908, "name": "Jagalempeni", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082005, "fields": {"kecamatan": 332908, "name": "Keboledan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082006, "fields": {"kecamatan": 332908, "name": "Kertabesuki", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082007, "fields": {"kecamatan": 332908, "name": "Klampok", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082008, "fields": {"kecamatan": 332908, "name": "Kupu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082009, "fields": {"kecamatan": 332908, "name": "Lengkong", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082010, "fields": {"kecamatan": 332908, "name": "Pebatan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082011, "fields": {"kecamatan": 332908, "name": "Pesantunan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082012, "fields": {"kecamatan": 332908, "name": "Sawojajar", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082013, "fields": {"kecamatan": 332908, "name": "Siasem", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082014, "fields": {"kecamatan": 332908, "name": "Sidamulya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082015, "fields": {"kecamatan": 332908, "name": "Sigentong", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082016, "fields": {"kecamatan": 332908, "name": "Sisalam", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082017, "fields": {"kecamatan": 332908, "name": "Siwungkuk", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082018, "fields": {"kecamatan": 332908, "name": "Tanjungsari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082019, "fields": {"kecamatan": 332908, "name": "Tegalgandu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329082020, "fields": {"kecamatan": 332908, "name": "Wanasari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329091002, "fields": {"kecamatan": 332909, "name": "Brebes", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3329091003, "fields": {"kecamatan": 332909, "name": "Gandasuli", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3329091011, "fields": {"kecamatan": 332909, "name": "Limbangan Kulon", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3329091012, "fields": {"kecamatan": 332909, "name": "Limbangan Wetan", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3329091015, "fields": {"kecamatan": 332909, "name": "Pasarbatang", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3329092001, "fields": {"kecamatan": 332909, "name": "Banjaranyar", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092004, "fields": {"kecamatan": 332909, "name": "Kaligangsa Kulon", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092005, "fields": {"kecamatan": 332909, "name": "Kaligangsa Wetan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092006, "fields": {"kecamatan": 332909, "name": "Kalimati", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092007, "fields": {"kecamatan": 332909, "name": "Kaliwlingi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092008, "fields": {"kecamatan": 332909, "name": "Kedunguter", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092009, "fields": {"kecamatan": 332909, "name": "Krasak", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092010, "fields": {"kecamatan": 332909, "name": "Lembarawa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092013, "fields": {"kecamatan": 332909, "name": "Padasugih", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092014, "fields": {"kecamatan": 332909, "name": "Pagejugan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092016, "fields": {"kecamatan": 332909, "name": "Pemaron", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092017, "fields": {"kecamatan": 332909, "name": "Pulosari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092018, "fields": {"kecamatan": 332909, "name": "Randusanga Kulon", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092019, "fields": {"kecamatan": 332909, "name": "Randusanga Wetan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092020, "fields": {"kecamatan": 332909, "name": "Sigambir", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092021, "fields": {"kecamatan": 332909, "name": "Tengki", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092022, "fields": {"kecamatan": 332909, "name": "Terlangu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329092023, "fields": {"kecamatan": 332909, "name": "Wangandalem", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329102001, "fields": {"kecamatan": 332910, "name": "Cenang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329102002, "fields": {"kecamatan": 332910, "name": "Dukuhmaja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329102003, "fields": {"kecamatan": 332910, "name": "Jatirokeh", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329102004, "fields": {"kecamatan": 332910, "name": "Karangsembung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329102005, "fields": {"kecamatan": 332910, "name": "Songgom", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329102006, "fields": {"kecamatan": 332910, "name": "Wanacala", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329102007, "fields": {"kecamatan": 332910, "name": "Wanatawang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329102008, "fields": {"kecamatan": 332910, "name": "Gegerkunci", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329102009, "fields": {"kecamatan": 332910, "name": "Jatimakmur", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329102010, "fields": {"kecamatan": 332910, "name": "Songgom Lor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112001, "fields": {"kecamatan": 332911, "name": "Ciampel", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112002, "fields": {"kecamatan": 332911, "name": "Cigedog", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112003, "fields": {"kecamatan": 332911, "name": "Cikandang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112004, "fields": {"kecamatan": 332911, "name": "Jagapura", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112005, "fields": {"kecamatan": 332911, "name": "Kemukten", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112006, "fields": {"kecamatan": 332911, "name": "Kradenan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112007, "fields": {"kecamatan": 332911, "name": "Kersana", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112008, "fields": {"kecamatan": 332911, "name": "Kramatsampang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112009, "fields": {"kecamatan": 332911, "name": "Kubangpari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112010, "fields": {"kecamatan": 332911, "name": "Limbangan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112011, "fields": {"kecamatan": 332911, "name": "Pende", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112012, "fields": {"kecamatan": 332911, "name": "Sindangjaya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329112013, "fields": {"kecamatan": 332911, "name": "Sutamaja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122001, "fields": {"kecamatan": 332912, "name": "Babakan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122002, "fields": {"kecamatan": 332912, "name": "Blubuk", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122003, "fields": {"kecamatan": 332912, "name": "Bojongsari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122004, "fields": {"kecamatan": 332912, "name": "Dukuhsalam", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122005, "fields": {"kecamatan": 332912, "name": "Jatisawit", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122006, "fields": {"kecamatan": 332912, "name": "Kalibuntu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122007, "fields": {"kecamatan": 332912, "name": "Karangdempel", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122008, "fields": {"kecamatan": 332912, "name": "Karangjunti", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122009, "fields": {"kecamatan": 332912, "name": "Karangsambung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122010, "fields": {"kecamatan": 332912, "name": "Kecipir", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122011, "fields": {"kecamatan": 332912, "name": "Kedungneng", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122012, "fields": {"kecamatan": 332912, "name": "Limbangan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122013, "fields": {"kecamatan": 332912, "name": "Losari Kidul", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122014, "fields": {"kecamatan": 332912, "name": "Losari Lor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122015, "fields": {"kecamatan": 332912, "name": "Negla", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122016, "fields": {"kecamatan": 332912, "name": "Pekauman", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122017, "fields": {"kecamatan": 332912, "name": "Pengabean", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122018, "fields": {"kecamatan": 332912, "name": "Prapag Kidul", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122019, "fields": {"kecamatan": 332912, "name": "Prapag Lor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122020, "fields": {"kecamatan": 332912, "name": "Randegan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122021, "fields": {"kecamatan": 332912, "name": "Randusari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329122022, "fields": {"kecamatan": 332912, "name": "Rungkang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132001, "fields": {"kecamatan": 332913, "name": "Karangreja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132002, "fields": {"kecamatan": 332913, "name": "Kedawung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132003, "fields": {"kecamatan": 332913, "name": "Kemurang Kulon", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132004, "fields": {"kecamatan": 332913, "name": "Kemurang Wetan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132005, "fields": {"kecamatan": 332913, "name": "Krakahan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132006, "fields": {"kecamatan": 332913, "name": "Kubangputat", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132007, "fields": {"kecamatan": 332913, "name": "Luwunggede", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132008, "fields": {"kecamatan": 332913, "name": "Lemahabang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132009, "fields": {"kecamatan": 332913, "name": "Luwungbata", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132010, "fields": {"kecamatan": 332913, "name": "Mundu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132011, "fields": {"kecamatan": 332913, "name": "Pejagan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132012, "fields": {"kecamatan": 332913, "name": "Pengaradan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132013, "fields": {"kecamatan": 332913, "name": "Sarireja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132014, "fields": {"kecamatan": 332913, "name": "Sengon", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132015, "fields": {"kecamatan": 332913, "name": "Sidakaton", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132016, "fields": {"kecamatan": 332913, "name": "Tanjung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132017, "fields": {"kecamatan": 332913, "name": "Tegongan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329132018, "fields": {"kecamatan": 332913, "name": "Tengguli", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142001, "fields": {"kecamatan": 332914, "name": "Bangsri", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142002, "fields": {"kecamatan": 332914, "name": "Banjaratma", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142003, "fields": {"kecamatan": 332914, "name": "Bulakamba", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142004, "fields": {"kecamatan": 332914, "name": "Bulakparen", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142005, "fields": {"kecamatan": 332914, "name": "Bulusari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142006, "fields": {"kecamatan": 332914, "name": "Cimohong", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142007, "fields": {"kecamatan": 332914, "name": "Cipelem", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142008, "fields": {"kecamatan": 332914, "name": "Dukuhlo", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142009, "fields": {"kecamatan": 332914, "name": "Grinting", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142010, "fields": {"kecamatan": 332914, "name": "Jubang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142011, "fields": {"kecamatan": 332914, "name": "Karangsari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142012, "fields": {"kecamatan": 332914, "name": "Kluwut", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142013, "fields": {"kecamatan": 332914, "name": "Luwungragi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142014, "fields": {"kecamatan": 332914, "name": "Pakijangan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142015, "fields": {"kecamatan": 332914, "name": "Petunjungan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142016, "fields": {"kecamatan": 332914, "name": "Pulogading", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142017, "fields": {"kecamatan": 332914, "name": "Rancawuluh", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142018, "fields": {"kecamatan": 332914, "name": "Siwuluh", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329142019, "fields": {"kecamatan": 332914, "name": "Tegalglagah", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329152001, "fields": {"kecamatan": 332915, "name": "Kamal", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329152002, "fields": {"kecamatan": 332915, "name": "Karangbale", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329152003, "fields": {"kecamatan": 332915, "name": "Kedungbokor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329152004, "fields": {"kecamatan": 332915, "name": "Larangan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329152005, "fields": {"kecamatan": 332915, "name": "Luwunggede", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329152006, "fields": {"kecamatan": 332915, "name": "Pamulihan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329152007, "fields": {"kecamatan": 332915, "name": "Rengaspendawa", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329152008, "fields": {"kecamatan": 332915, "name": "Sitanggal", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329152009, "fields": {"kecamatan": 332915, "name": "Slatri", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329152010, "fields": {"kecamatan": 332915, "name": "Wlahar", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329152011, "fields": {"kecamatan": 332915, "name": "Siandong", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162001, "fields": {"kecamatan": 332916, "name": "Baros", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162002, "fields": {"kecamatan": 332916, "name": "Buara", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162003, "fields": {"kecamatan": 332916, "name": "Bulakelor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162004, "fields": {"kecamatan": 332916, "name": "Ciduwet", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162005, "fields": {"kecamatan": 332916, "name": "Cikeusal Kidul", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162006, "fields": {"kecamatan": 332916, "name": "Cikeusal Lor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162007, "fields": {"kecamatan": 332916, "name": "Ciseureuh", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162008, "fields": {"kecamatan": 332916, "name": "Dukuhbadag", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162009, "fields": {"kecamatan": 332916, "name": "Dukuhtengah", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162010, "fields": {"kecamatan": 332916, "name": "Jemasih", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162011, "fields": {"kecamatan": 332916, "name": "Karangbandung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162012, "fields": {"kecamatan": 332916, "name": "Ketanggungan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162013, "fields": {"kecamatan": 332916, "name": "Kubangjati", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162014, "fields": {"kecamatan": 332916, "name": "Kubangwungu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162015, "fields": {"kecamatan": 332916, "name": "Kubangsari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162016, "fields": {"kecamatan": 332916, "name": "Pamedaran", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162017, "fields": {"kecamatan": 332916, "name": "Sindangjaya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162018, "fields": {"kecamatan": 332916, "name": "Tanggungsari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162019, "fields": {"kecamatan": 332916, "name": "Karangmalang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162020, "fields": {"kecamatan": 332916, "name": "Dukuhturi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329162021, "fields": {"kecamatan": 332916, "name": "Padakaton", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172001, "fields": {"kecamatan": 332917, "name": "Bandungsari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172002, "fields": {"kecamatan": 332917, "name": "Banjarlor", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172003, "fields": {"kecamatan": 332917, "name": "Banjarharjo", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172004, "fields": {"kecamatan": 332917, "name": "Blandongan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172005, "fields": {"kecamatan": 332917, "name": "Ciawi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172006, "fields": {"kecamatan": 332917, "name": "Cibendung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172007, "fields": {"kecamatan": 332917, "name": "Cibuniwangi", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172008, "fields": {"kecamatan": 332917, "name": "Cigadung", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172009, "fields": {"kecamatan": 332917, "name": "Cihaur", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172010, "fields": {"kecamatan": 332917, "name": "Cikakak", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172011, "fields": {"kecamatan": 332917, "name": "Cikuya", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172012, "fields": {"kecamatan": 332917, "name": "Cimunding", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172013, "fields": {"kecamatan": 332917, "name": "Cipajang", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172014, "fields": {"kecamatan": 332917, "name": "Dukuhjeruk", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172015, "fields": {"kecamatan": 332917, "name": "Karangmaja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172016, "fields": {"kecamatan": 332917, "name": "Kertasari", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172017, "fields": {"kecamatan": 332917, "name": "Kubangjero", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172018, "fields": {"kecamatan": 332917, "name": "Malahayu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172019, "fields": {"kecamatan": 332917, "name": "Parereja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172020, "fields": {"kecamatan": 332917, "name": "Penanggapan", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172021, "fields": {"kecamatan": 332917, "name": "Pende", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172022, "fields": {"kecamatan": 332917, "name": "Sindangheula", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172023, "fields": {"kecamatan": 332917, "name": "Sukareja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172024, "fields": {"kecamatan": 332917, "name": "Tegalreja", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3329172025, "fields": {"kecamatan": 332917, "name": "Tiwulandu", "jenis": "Desa"}}, {"model": "dapil.kelurahan", "pk": 3376011001, "fields": {"kecamatan": 337601, "name": "Pesurungan Kidul", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376011002, "fields": {"kecamatan": 337601, "name": "Debong Lor", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376011003, "fields": {"kecamatan": 337601, "name": "Kemandungan", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376011004, "fields": {"kecamatan": 337601, "name": "Pekauman", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376011005, "fields": {"kecamatan": 337601, "name": "Kraton", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376011006, "fields": {"kecamatan": 337601, "name": "Tegalsari", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376011007, "fields": {"kecamatan": 337601, "name": "Muarareja", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376021001, "fields": {"kecamatan": 337602, "name": "Kejambon", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376021002, "fields": {"kecamatan": 337602, "name": "Slerok", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376021003, "fields": {"kecamatan": 337602, "name": "Panggung", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376021004, "fields": {"kecamatan": 337602, "name": "Mangkukusuman", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376021005, "fields": {"kecamatan": 337602, "name": "Mintaragen", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376031001, "fields": {"kecamatan": 337603, "name": "Kalinyamat Wetan", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376031002, "fields": {"kecamatan": 337603, "name": "Bandung", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376031003, "fields": {"kecamatan": 337603, "name": "Debong Kidul", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376031004, "fields": {"kecamatan": 337603, "name": "Tunon", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376031005, "fields": {"kecamatan": 337603, "name": "Keturen", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376031006, "fields": {"kecamatan": 337603, "name": "Debong Kulon", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376031007, "fields": {"kecamatan": 337603, "name": "Debong Tengah", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376031008, "fields": {"kecamatan": 337603, "name": "Randugunting", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376041001, "fields": {"kecamatan": 337604, "name": "Kaligangsa", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376041002, "fields": {"kecamatan": 337604, "name": "Krandon", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376041003, "fields": {"kecamatan": 337604, "name": "Cabawan", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376041004, "fields": {"kecamatan": 337604, "name": "Kalinyamat Kulon", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376041005, "fields": {"kecamatan": 337604, "name": "Margadana", "jenis": "Kelurahan"}}, 
+		{"model": "dapil.kelurahan", "pk": 3376041006, "fields": {"kecamatan": 337604, "name": "Sumurpanggang", "jenis": "Kelurahan"}}, {"model": "dapil.kelurahan", "pk": 3376041007, "fields": {"kecamatan": 337604, "name": "Pesurungan Lor", "jenis": "Kelurahan"}}]

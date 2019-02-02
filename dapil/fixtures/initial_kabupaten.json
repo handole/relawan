@@ -1,0 +1,29 @@
+[
+	{
+		"model": "dapil.kabupaten",
+		"pk": 3328,
+		"fields": {
+			"provinsi": 33,
+			"name": "Kab. Tegal",
+			"jenis": "kabupaten"
+		}
+	},
+	{
+		"model": "dapil.kabupaten",
+		"pk": 3329,
+		"fields": {
+			"provinsi": 33,
+			"name": "Kab. Brebes",
+			"jenis": "kabupaten"
+		}
+	},
+	{
+		"model": "dapil.kabupaten",
+		"pk": 3376,
+		"fields": {
+			"provinsi": 33,
+			"name": "Kota Tegal",
+			"jenis": "kota"
+		}
+	}
+]

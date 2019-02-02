@@ -1,0 +1,77 @@
+{% extends 'base.html' %}
+{% block title %}{{korcam.nama}}{% endblock title %}
+
+{% block content %}
+<div class="main">
+  <div class="main-content">
+  	<div class="container-fluid">
+
+  	  	  <div class="panel">
+  	  	    <div class="panel-heading">
+							<h3 class="panel-title"><b>Koordinator Kecamatan {{korcam.nama}}</b></h3><br>
+							<div class="row">
+								<div class="col-md-4 col-xs-12">
+									<p>NIK, {{korcam.nik}}</p>
+									<p>Status, {{korcam.status}}</p>		
+								</div>
+								<div class="col-md-4 col-xs-12">
+									<p>No Hp, {{korcam.mobile}}</p>
+									<p>Jumlah, {{korcam.count_relawan}} asisten</p>		
+								</div>
+								<div class="col-md-4 col-xs-12">
+									<p>Wilayahnya, {{korcam.wilayah}}</p>
+								</div>
+							</div>
+            </div>
+            <div class="panel-body">
+	          <div class="panel-heading col-md-2 col-sm-2">
+	            <h3 class="panel-title"><b>Daftar Asisten </b></h3>
+	          </div>
+	          <div class="panel-heading col-md-4 col-sm-4">
+	          
+	            <a href="{% url 'post:add-asisten' korcam.id %}" class="btn btn-default">Tambah Asisten</a>
+	          </div>
+	          <div class="panel-heading col-md-6 col-sm-6">
+	            <form method="GET" class="navbar-left">
+	              <div class="input-group">
+	                <input type="text" name="q" class="form-control" placeholder="Search data...">
+	                <span class="input-group-btn"><input type="submit" name="submit" value="Go" class="btn btn-primary"></span>
+	              </div>
+	            </form>
+	          </div>
+
+	            <table class="table table-bordered">
+	              <thead>
+	                <tr>
+
+	                  <th>NIK</th>
+	                  <th>Nama</th>
+	                  <th>Mobile</th>
+	                  <th>Kelurahan</th>
+	                  <th>Action</th>
+	                </tr>
+	              </thead>
+	              <tbody>
+	                {% for obj in rela %}
+	                <tr>
+	                  <td>{{obj.nik}}</td>
+	                  <td>{{obj.nama}}</td>
+	                  <td>{{obj.mobile}}</td>
+	                  <td>{{obj.target_kelurahan}}</td>
+
+	                  <td>
+	                  <a href="{% url 'post:edit-asisten' obj.id %}"><i class="fa fa-edit"></i></a> | 
+	                  <a href="{% url 'post:delete-asisten' obj.id %}"><i class="fa fa-trash"></i></a>                    
+	                  </td>
+	                </tr>
+	                {% endfor %}
+
+	              </tbody>
+	            </table>
+            </div>
+          </div>
+  	  </div>
+  	</div>
+  </div>
+</div>
+{% endblock content %}
