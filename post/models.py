@@ -61,9 +61,9 @@ class Relawan(models.Model):
 	def __str__(self):
 		return self.nama
 
-	# def count_target(self):
-	# 	target = Targetcapem.objects.filter(relawan_id=self.id).count()
-	# 	return target
+	def count_target(self):
+		target = Targetcapem.objects.filter(relawan_id=self.id).count()
+		return target
 
 	def sisa_target(self, realisasi): 
 		target = self.target
